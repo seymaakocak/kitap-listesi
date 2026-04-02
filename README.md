@@ -5,7 +5,7 @@ Okuduğun ve okumak istediğin kitapları takip edebileceğin, modern bir React 
 ---
 
 
-## 🚀 Canlı Demo
+##  Canlı Demo
 
 [https://serene-sunburst-215ec3.netlify.app/](https://serene-sunburst-215ec3.netlify.app/)
 
